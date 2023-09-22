@@ -1,0 +1,45 @@
+a{
+  text-decoration: none;
+}
+
+.label{
+  font-weight: bold;
+}
+
+.clickable{
+  cursor: pointer;
+}
+
+.customerDetails{
+  border-radius: 10px;
+  box-shadow: 5px 5px 21px -10px #000000;  
+}
+
+.customerDetails h3{
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 10px 10px 0px 0px;
+  background-color: #000;
+  color: #fff;
+}
+
+.detailsData{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.dataColumn{
+  width: 30%;
+  text-align: left;
+  border: 1px solid #cecece;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.transactionTableSection, .itemsTableSection{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}

@@ -1,0 +1,136 @@
+{
+    "customerRewards": {
+        "customers":[
+            {
+                "customerId": "1",
+                "firstName":"Richard ",
+                "lastName":"Branson",
+                "email":"richbranson@gmail.com",
+                "phone":"6629073383"
+            },
+            {
+                "customerId": "2",
+                "firstName":"Kevin ",
+                "lastName":"Thurston",
+                "email":"kthurston@gmail.com",
+                "phone":"9012748820"
+            }
+        ],
+        "transactions":[
+            {
+                "transactionId":"1",
+                "customerId":"1",
+                "transactionDate":"01/10/2023",
+                "total":"155.29",
+                "items":[
+                    {
+                        "itemId":"011",
+                        "description": "BIC Brite Liner Grip",
+                        "quantityPurchased":"2",
+                        "price":"7.00" 
+                    },
+                    {
+                        "itemId":"012",
+                        "description": "Neenah Exact Cardstock",
+                        "quantityPurchased":"3",
+                        "price":"15.00" 
+                    },
+                    {
+                        "itemId":"013",
+                        "description": "Casio Graphing Calculator",
+                        "quantityPurchased":"1",
+                        "price":"30.70" 
+                    },
+                    {
+                        "itemId":"014",
+                        "description": "Canon Cartridges Black",
+                        "quantityPurchased":"2",
+                        "price":"40.65" 
+                    },
+                    {
+                        "itemId":"015",
+                        "description": "Ozark Trail Steel  Water Bottle",
+                        "quantityPurchased":"1",
+                        "price":"12.15" 
+                    },
+                    {
+                        "itemId":"016",
+                        "description": "Hard cover big file foleder",
+                        "quantityPurchased":"2",
+                        "price":"15.32" 
+                    }
+                ]
+            },
+            {
+                "transactionId":"2",
+                "customerId":"1",
+                "transactionDate":"02/20/2023",
+                "total":"200.05",
+                "items":[
+                    {
+                        "itemId":"021",
+                        "description": "Travelhouse 3 Piece Luggage Set",
+                        "quantityPurchased":"1",
+                        "price":"200.05" 
+                    }
+                ]
+            },
+            {
+                "transactionId":"3",
+                "customerId":"1",
+                "transactionDate":"03/15/2023",
+                "total":"150.00",
+                "items":[
+                    {
+                        "itemId":"031",
+                        "description": "Case with MagSafe for Apple iPhone",
+                        "quantityPurchased":"1",
+                        "price":"150.00" 
+                    }
+                ]
+            },
+            {
+                "transactionId":"1",
+                "customerId":"2",
+                "transactionDate":"04/10/2023",
+                "total":"103.25",
+                "items":[
+                    {
+                        "itemId":"011",
+                        "description": "PowerCore Select 20000 Power Bank",
+                        "quantityPurchased":"1",
+                        "price":"103.25" 
+                    }
+                ]
+            },
+            {
+                "transactionId":"2",
+                "customerId":"2",
+                "transactionDate":"05/30/2023",
+                "total":"116.00",
+                "items":[
+                    {
+                        "itemId":"021",
+                        "description": " AirPods Pro 2 White In Ear Headphones",
+                        "quantityPurchased":"1",
+                        "price":"116.00" 
+                    }
+                ]
+            },
+            {
+                "transactionId":"3",
+                "customerId":"2",
+                "transactionDate":"06/22/2023",
+                "total":"120.00",
+                "items":[
+                    {
+                        "itemId":"031",
+                        "description": "LG Soundbar with Wireless Subwoofer",
+                        "quantityPurchased":"1",
+                        "price":"120.00" 
+                    }
+                ]
+            }
+        ]
+    }
+}
