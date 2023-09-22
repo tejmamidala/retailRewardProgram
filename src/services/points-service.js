@@ -8,7 +8,6 @@ export const calculateRewardsPoints = (transactions) => {
         if( transaction.total > 100){
             forOverOneHundred = (cleanTotal - 100) * 2;
         }
-
         if( transaction.total > 50){
             forOverFifty = (cleanTotal - 50);
         }
